@@ -1,11 +1,7 @@
 import React from 'react'
 import Container from '../Container'
-
 import twitter from './twitter@3x.png'
-import github from './github@3x.png'
 import telegram from './telegram@3x.png'
-import reddit from './reddit@3x.png'
-import discord from './discord@3x.png'
 import medium from './medium@3x.png'
 
 import './Join.scss'
@@ -17,7 +13,7 @@ function Join() {
         <div className="Page-content">
           <div className="Page-end">
             <div className="Section-text Join-section-text text-gradient">
-              Join Unstoppables
+              Join Antofy Labs
             </div>
             <div className="Section-info Join-section-info">
               Stay on top of Antofy happenings. Be the first to know about new features, user reported issues and things we work on!            </div>

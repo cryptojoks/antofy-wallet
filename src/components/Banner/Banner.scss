@@ -1,0 +1,161 @@
+@import "../../scss/utils";
+
+.Banner {
+  display: flex;
+  margin-top: 80px;
+
+  @include sm {
+    margin-top: 20px;
+    flex-direction: column;
+  }
+}
+
+.Banner-start, .Banner-end {
+  width: 50%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @include sm {
+    width: 100%;
+  }
+
+  @include md {
+    height: calc(100vh - 80px);
+  }
+}
+
+.Banner-start {
+  @include sm {
+    height: 320px;
+  }
+}
+
+.Banner-img-gradient {
+  position: absolute;
+  width: 100%;
+}
+
+.Banner-img-gradient-top {
+  transform: translateY(-20%);
+
+  @include sm {
+    transform: translateY(-10%);
+  }
+}
+
+.Banner-img-gradient-left {
+  transform: translateX(-20%);
+
+  @include sm {
+    transform: translateX(-10%);
+  }
+}
+
+.Banner-img-gradient-right {
+  transform: translateX(20%);
+
+  @include sm {
+    transform: translateX(10%);
+  }
+}
+
+.Banner-img {
+  position: absolute;
+
+  @include sm {
+    top: 70px;
+    height: 100%;
+  }
+}
+
+.Banner-end {
+  flex-direction: column;
+
+  @include sm {
+  }
+
+  @include md {
+    padding-left: 40px;
+  }
+
+  @include lg {
+    padding-left: 0;
+  }
+}
+
+.Banner-end-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  @include sm {
+    margin-top: 90px;
+    margin-bottom: 30px;
+    align-items: center;
+  }
+}
+
+.Banner-title {
+  font-style: normal;
+  font-size: 32px;
+  line-height: 44px;
+  font-weight: 400;
+
+  @include md {
+  }
+
+  @include lg {
+    font-size: 54px;
+    line-height: 73px;
+  }
+
+  @include xl {
+    font-size: 64px;
+    line-height: 87px;
+  }
+
+  @include xxl {
+    font-size: 80px;
+    line-height: 109px;
+  }
+}
+
+.Banner-title-slogan {
+  font-style: normal;
+  font-size: 13px;
+  color: $light-steal;
+
+  @include lg {
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  @include xl {
+    font-size: 22px;
+  }
+}
+
+.Banner-info {
+  color: $grey;
+  font-family: $font-family-base;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  padding-bottom: 36px;
+
+  @include md {
+    font-size: 18px;
+    line-height: 25px;
+    padding-bottom: 100px;
+  }
+
+  @include xxl {
+    font-size: 32px;
+    line-height: 44px;
+    padding-bottom: 80px;
+  }
+}
+

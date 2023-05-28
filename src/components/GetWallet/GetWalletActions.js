@@ -2,7 +2,7 @@ import React from 'react'
 import { Tooltip } from 'react-tooltip'
 import Icon from '../Icon'
 import Button from '../Button'
-import AndroidQrCode from './qrcode-get-wallet.svg'
+import AndroidQrCode from './qrcode-get-wallet.png'
 
 import './GetWalletActions.scss'
 

@@ -22,7 +22,7 @@ function Releases() {
                   </div>
                   <div className="pt-4">
                     <a
-                      href="https://unstoppablewallet.medium.com/whats-new-version-0-18-1af77fc7b24f"
+                      href="https://medium.com/@antofy"
                       className="text-decoration-none text-warning"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -47,7 +47,7 @@ function Releases() {
                   </div>
                   <div className="pt-4">
                     <a
-                      href="https://unstoppablewallet.medium.com/whats-new-version-0-19-31efcb7dcb5f"
+                      href="https://medium.com/@antofy"
                       className="text-decoration-none text-warning"
                       target="_blank"
                       rel="noopener noreferrer"

@@ -2,7 +2,6 @@ import React from 'react'
 import { Tooltip } from 'react-tooltip'
 import Icon from '../Icon'
 import Button from '../Button'
-import AndroidQrCode from './qrcode-get-wallet.png'
 
 import './GetWalletActions.scss'
 
@@ -27,9 +26,12 @@ function GetWallet() {
           text="App Store"
           icon="app-store"
           link="https://itunes.apple.com/app/" yellow newTab />
-        <div className="sm-hidden" role="button" data-tooltip-id="registerTip">
-          <Icon name="qr-code" />
-        </div>
+         <Button
+          className="Button-circle Button-nowrap"
+          text="Extensions"
+          icon="qr-code"
+          link="https://chrome.google.com/webstore/category/extensions/" yellow newTab />
+    
       </div>
       <div className="Banner-links">
         <Button

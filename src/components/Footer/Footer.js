@@ -28,7 +28,7 @@ class Footer extends React.Component {
               </div>
             </a>
 
-            <span>@ 2022 HorizontalSystems</span>
+            <span>@ 2023 Antofy Labs LLC. </span>
           </div>
         </Container>
       </header>

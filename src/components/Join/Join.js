@@ -20,43 +20,27 @@ function Join() {
               Join Unstoppables
             </div>
             <div className="Section-info Join-section-info">
-              Stay on top of Unstoppable happenings. Be the first to know about new features, user reported issues and things we work on!            </div>
+              Stay on top of Antofy happenings. Be the first to know about new features, user reported issues and things we work on!            </div>
           </div>
           <div className="Page-start">
             <div className="Join-icons">
               <div className="Join-icon">
-                <a href="https://twitter.com/unstoppablebyhs" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com/0xantofy" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src={twitter} alt="Twitter" />
                 </a>
               </div>
-              <div className="Join-icon">
-                <a href="https://github.com/horizontalsystems/" target="_blank" rel="noopener noreferrer">
-                  <img className="Join-image" src={github} alt="github" />
+            <div className="Join-icon">
+                <a href="https://medium.com/2antofy" target="_blank" rel="noopener noreferrer">
+                  <img className="Join-image" src={medium} alt="medium" />
                 </a>
               </div>
               <div className="Join-icon">
-                <a href="https://t.me/unstoppable_announcements" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/antofylabs" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src={telegram} alt="telegram" />
                 </a>
               </div>
             </div>
-            <div className="Join-icons">
-              <div className="Join-icon">
-                <a href="https://www.reddit.com/r/UNSTOPPABLEWallet/" target="_blank" rel="noopener noreferrer">
-                  <img className="Join-image" src={reddit} alt="reddit" />
-                </a>
-              </div>
-              <div className="Join-icon">
-                <a href="https://discord.gg/3uECHQ3cEk" target="_blank" rel="noopener noreferrer">
-                  <img className="Join-image" src={discord} alt="discord" />
-                </a>
-              </div>
-              <div className="Join-icon">
-                <a href="https://unstoppablewallet.medium.com/" target="_blank" rel="noopener noreferrer">
-                  <img className="Join-image" src={medium} alt="medium" />
-                </a>
-              </div>
-            </div>
+        
           </div>
         </div>
       </div>

@@ -26,11 +26,7 @@ function GetWallet() {
           text="App Store"
           icon="app-store"
           link="https://itunes.apple.com/app/" yellow newTab />
-         <Button
-          className="Button-circle Button-nowrap"
-          text="Extensions"
-          icon="chrome"
-          link="https://chrome.google.com/webstore/category/extensions/" yellow newTab />
+     
          <div className="sm-hidden" role="button" data-tooltip-id="registerTip">
           <Icon name="qr-code" />
         </div>

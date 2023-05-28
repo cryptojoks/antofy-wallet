@@ -11,7 +11,7 @@ function GetWallet() {
     <Container>
       <div className="GetWallet">
         <div className="GetWallet-text text-gradient fw-normal">
-          Get the Unstoppable Wallet!
+          Get the Antofy Wallet!
         </div>
         <div className="GetWallet-action">
           <GetWalletActions />

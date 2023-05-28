@@ -11,37 +11,37 @@ import './Roadmap.scss'
 import { ReactComponent as Circle } from './circle.svg'
 
 const releases = [
-  { version: '0.1', date: 'Dec 24, 2018' },
-  { version: '0.2', date: 'Feb 15, 2019' },
-  { version: '0.4', date: 'Apr 17, 2019' },
-  { version: '0.5', date: 'May 14, 2019' },
-  { version: '0.6', date: 'Jun 19, 2019' },
-  { version: '0.7', date: 'Aug 21, 2019' },
-  { version: '0.8', date: 'Sep 17, 2019' },
-  { version: '0.9', date: 'Oct 7, 2019' },
-  { version: '0.10', date: 'Nov 20, 2019' },
-  { version: '0.11', date: 'Jan 31, 2020' },
-  { version: '0.12', date: 'Mar 4, 2020' },
-  { version: '0.13', date: 'Apr 30, 2020' },
-  { version: '0.14', date: 'May 28, 2020' },
-  { version: '0.15', date: 'Jul 10, 2020' },
-  { version: '0.16', date: 'Sep 22, 2020' },
-  { version: '0.17', date: 'Nov 23, 2020' },
-  { version: '0.18', date: 'Dec 9, 2020' },
-  { version: '0.19', date: 'Feb 17, 2021' },
-  { version: '0.20', date: 'Apr 22, 2021' },
-  { version: '0.21', date: 'May 26, 2021' },
-  { version: '0.22', date: 'Aug 16, 2021' },
-  { version: '0.23', date: 'Dec 14, 2021' },
-  { version: '0.24', date: 'Mar 11, 2022' },
-  { version: '0.25', date: 'Jun 8, 2022' },
-  { version: '0.26', date: 'Aug 18, 2022' },
-  { version: '0.27', date: 'Oct 05, 2022' },
-  { version: '0.28', date: 'Nov 2, 2022' },
-  { version: '0.29', date: 'Jan 3, 2023' },
-  { version: '0.30', date: 'Feb 7, 2023' },
-  { version: '0.31', date: 'Apr 4, 2023' },
-  { version: '0.32', date: 'Apr 25, 2023' },
+  { version: '0.1', date: 'Dec 24, 2022' },
+  { version: '0.2', date: 'Feb 15, 2021' },
+  { version: '0.4', date: 'Apr 17, 2021' },
+  { version: '0.5', date: 'May 14, 2021' },
+  { version: '0.6', date: 'Jun 19, 2021' },
+  { version: '0.7', date: 'Aug 21, 2021' },
+  { version: '0.8', date: 'Sep 17, 2021' },
+  { version: '0.9', date: 'Oct 7, 2021' },
+  { version: '0.10', date: 'Nov 20, 2021' },
+  { version: '0.11', date: 'Jan 31, 2022' },
+  { version: '0.12', date: 'Mar 4, 2022' },
+  { version: '0.13', date: 'Apr 30, 2022' },
+  { version: '0.14', date: 'May 28, 2022' },
+  { version: '0.15', date: 'Jul 10, 2022' },
+  { version: '0.16', date: 'Sep 22, 2022' },
+  { version: '0.17', date: 'Nov 23, 2022' },
+  { version: '0.18', date: 'Dec 9, 2022' },
+  { version: '0.19', date: 'Feb 17, 2023' },
+  { version: '0.20', date: 'Apr 22, 2023' },
+  { version: '0.21', date: 'Apr 26, 2023' },
+  { version: '0.22', date: 'Apr 28, 2023' },
+  { version: '0.23', date: 'May 10, 2023' },
+  { version: '0.24', date: 'May 11, 2023' },
+  { version: '0.25', date: 'May 13, 2023' },
+  { version: '0.26', date: 'May 14, 2023' },
+  { version: '0.27', date: 'May 15, 2023' },
+  { version: '0.28', date: 'May 17, 2023' },
+  { version: '0.29', date: 'May 18, 2023' },
+  { version: '0.30', date: 'May 19, 2023' },
+  { version: '0.31', date: 'May 20, 2023' },
+  { version: '0.32', date: 'May 25, 2023' },
 ]
 
 export default function Roadmap() {
@@ -140,12 +140,12 @@ function RoadmapDetails({ version }) {
       </div>
       <div className="card-footer pt-3">
         <div className="border-top mt-2 pt-2">
-          <a href={`https://github.com/horizontalsystems/unstoppable-wallet-android/releases/tag/${version}.0`}
+          <a href={`https://github.com/antofy/antofy-wallet-android/releases/tag/${version}.0`}
              target="_blank"
              rel="noopener noreferrer"
              className="text-warning small">Android</a>
           &nbsp;&nbsp;
-          <a href={`https://github.com/horizontalsystems/unstoppable-wallet-ios/releases/tag/${version}`}
+          <a href={`https://github.com/antofy/antofy-wallet-ios/releases/tag/${version}`}
              target="_blank"
              rel="noopener noreferrer"
              className="text-warning small">iOS</a>

@@ -20,7 +20,7 @@ class Footer extends React.Component {
           <div className="Divider" />
 
           <div className="Footer-bottom">
-            <a href="https://horizontalsystems.io" target="_blank" rel="noopener noreferrer">
+            <a href="https://antofy.com" target="_blank" rel="noopener noreferrer">
               <Logo className="Logo" />
 
               <div className="Logo-icon">

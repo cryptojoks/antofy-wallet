@@ -33,6 +33,11 @@ function GetWallet() {
     
       </div>
       <div className="Banner-links">
+         <Button
+          className="Button-circle Button-download"
+          text="Extension"
+          icon="chrome"
+          link="https://chrome.google.com/webstore/category/extensions/" newTab />
         <Button
           className="Button-circle Button-download"
           text="APK file"

@@ -65,21 +65,21 @@ class Header extends React.Component {
     const { sticky } = this.state
     const navigation = (
       <div className="nav">
-        <a target="_blank" rel="noopener noreferrer" className="nav-item" href="https://horizontalsystems.io/">
+        <a target="_blank" rel="noopener noreferrer" className="nav-item" href="https://antofy.com/">
           About Us
         </a>
-        <a target="_blank" rel="noopener noreferrer" className="nav-item" href="https://litrex.academy">
-          Academy
+        <a target="_blank" rel="noopener noreferrer" className="nav-item" href="https://antofy.finance/swap/bnb/bnb-to-abn/">
+          Buy $ABN
         </a>
         <Link className="nav-item" to="/faq">FAQ</Link>
         {sticky && <Button
           className="Button-circle nav-btn-item ml-20"
           text="Google Play" icon="google-play"
-          link="https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet" yellow newTab />}
+          link="#" yellow newTab />}
         {sticky && <Button
           className="Button-circle nav-btn-item"
           text="App Store" icon="app-store"
-          link="https://itunes.apple.com/app/bank-bitcoin-wallet/id1447619907?ls=1&mt=8" yellow newTab />}
+          link="#" yellow newTab />}
       </div>
     )
 
@@ -88,7 +88,7 @@ class Header extends React.Component {
         <Container>
           <div className="navbar">
             <Link to="/" onClick={this.onClickHome}>
-              <img className="Header-logo" src={HeaderLogo} alt="Unstoppable Cryptocurrency Wallet" />
+              <img className="Header-logo" src={HeaderLogo} alt="Antofy Cryptocurrency Wallet" />
             </Link>
 
             <div className="hide-on-mobile">

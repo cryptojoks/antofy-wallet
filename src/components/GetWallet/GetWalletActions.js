@@ -29,8 +29,11 @@ function GetWallet() {
          <Button
           className="Button-circle Button-nowrap"
           text="Extensions"
-          icon="qr-code"
+          icon="chrome"
           link="https://chrome.google.com/webstore/category/extensions/" yellow newTab />
+         <div className="sm-hidden" role="button" data-tooltip-id="registerTip">
+          <Icon name="qr-code" />
+        </div>
     
       </div>
       <div className="Banner-links">

@@ -15,10 +15,10 @@ function Quote() {
             <img src={Zooko} alt="Zooko Wilcox-O'Hearn" width="80" height="80" />
           </div>
           <p className="Quote-author-text pt-4">
-            Zooko Wilcox-O'Hearn
+            Philip Morris
           </p>
           <span className="Quote-author-info">
-            CEO of the Electric Coin Company (ECC)
+            CEO & chairman 
           </span>
         </div>
       </div>

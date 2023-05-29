@@ -1,6 +1,6 @@
 # What is a mnemonic passphrase?
 
-As enhanced security measure, some non-custodial wallets incl. Unstoppable provide a way to secure a 12-24 word mnemonic phrase with an additional password phrase (aka mnemonic passphrase).
+As enhanced security measure, some non-custodial wallets incl. Antofy provide a way to secure a 12-24 word mnemonic phrase with an additional password phrase (aka mnemonic passphrase).
 
 In such cases, the wallet user is required to backup both mnemonic phrases and an additional passphrase. Both of them will be needed to restore access to the wallet.
 

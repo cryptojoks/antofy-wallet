@@ -8,7 +8,7 @@ It usually takes about 10 minutes for a transaction to be included in the blockc
 
 Transaction steps:
 
-1. Sender sends a transaction from the Unstoppable wallet app. The transaction reaches the Bitcoin network instantly and remains pending there until one of the network nodes (aka miners) chooses to validate and add it to the blockchain.
+1. Sender sends a transaction from the Antofy wallet app. The transaction reaches the Bitcoin network instantly and remains pending there until one of the network nodes (aka miners) chooses to validate and add it to the blockchain.
 
 2. It's not uncommon for the Bitcoin network to have more pending transactions than can fit into 1MB blocks that are created by the blockchain every 10 minutes. This results in transactions backlog and network nodes having to choose which transactions make to the next block.
 

@@ -1,6 +1,6 @@
 # How using TOR and VPN enhances privacy
 
-Features such as TOR (on Android), and VPN (coming soon) in Unstoppable primarily helps with breaking a link between a user's internet activity and a physical identity on the level of the internet provider.
+Features such as TOR (on Android), and VPN (coming soon) in Antofy primarily helps with breaking a link between a user's internet activity and a physical identity on the level of the internet provider.
 
 Without such masking features, users' activity like sites visited are clearly visible to the internet service provider.
 

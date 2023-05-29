@@ -8,4 +8,4 @@ However, during busy times when there is a high volume of people transacting, a 
 
 The easiest way to cancel a transaction is by sending a new 0 ETH transaction to your own address with the same nonce (as the previous transaction) and much higher transaction fee. While this should cancel the first transaction, there is no guarantee this will work, nor that it will work every time.
 
-Note: As of June 2021, Unstoppable doesn't yet provide a way to control the 'nonce' setting for the transactions, and therefore the wallet app doesn't provide a way to cancel pending transactions. This feature will be added in the future.
+Note: As of June 2021, Antofy doesn't yet provide a way to control the 'nonce' setting for the transactions, and therefore the wallet app doesn't provide a way to cancel pending transactions. This feature will be added in the future.

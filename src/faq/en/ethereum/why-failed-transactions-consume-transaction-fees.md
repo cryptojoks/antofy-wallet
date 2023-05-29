@@ -8,4 +8,4 @@ Failed transactions are also added to the blockchain and consume transaction fee
 
 Therefore, users sending transactions are paying for the computation, regardless of whether their transaction succeeds or fails.
 
-Transaction fees are paid to the network directly and do not pass through or relate to Unstoppable wallet in any way.
+Transaction fees are paid to the network directly and do not pass through or relate to Antofy wallet in any way.

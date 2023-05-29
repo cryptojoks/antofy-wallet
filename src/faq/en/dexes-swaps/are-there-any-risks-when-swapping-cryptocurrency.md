@@ -1,6 +1,6 @@
 # Are there any risks when swapping cryptocurrency?
 
-While Unstoppable wallet guides users through a swap action by hiding complexities and automatically setting swap settings, there are a number of points to be aware of when executing swap trades.
+While Antofy wallet guides users through a swap action by hiding complexities and automatically setting swap settings, there are a number of points to be aware of when executing swap trades.
 
 1. Cost of Swap Transaction
 
@@ -26,7 +26,7 @@ Price slippage is the difference in a token price between the time a swap order 
 
 Price slippage occurs because of changing market conditions between the moment the transaction is submitted to the network and its verification on a blockchain. The duration between the order submission and its verification depends on the network conditions and the transaction fee set by the user.
 
-Unstoppable displays the potential slippage amount by providing an estimated and guaranteed amount of tokens users are expected to receive as a result of the swap transaction.
+Antofy displays the potential slippage amount by providing an estimated and guaranteed amount of tokens users are expected to receive as a result of the swap transaction.
 
 Users have an option to indicate acceptable slippage levels when sending transactions. By default, the value is set to %0.5 - %1 depending on the DEX being used.
 

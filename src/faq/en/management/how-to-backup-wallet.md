@@ -1,6 +1,6 @@
 # How do you backup a wallet(s)?
 
-Wallet backup is one of the most important steps. Users are recommended to follow instructions and complete backup steps for each wallet in the Unstoppable app.
+Wallet backup is one of the most important steps. Users are recommended to follow instructions and complete backup steps for each wallet in the Antofy app.
 
 - Go to Settings >> Manage Wallets section of the app.
 - All wallets where the backup procedure has not been completed have a red alert icon.

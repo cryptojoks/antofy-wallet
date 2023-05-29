@@ -12,7 +12,7 @@ The full process looks as follows:
 6. Reviews and confirms transactions.
 7. Monitors transaction status from Transactions list.
 
-When sending Bitcoin via Unstoppable the transaction goes directly to the blockchain without passing through intermediaries.
+When sending Bitcoin via Antofy the transaction goes directly to the blockchain without passing through intermediaries.
 
 Most cryptocurrency wallets are unable to communicate with the Bitcoin blockchain directly and have to route transactions through intermediaries.
 

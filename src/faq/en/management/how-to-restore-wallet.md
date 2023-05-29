@@ -1,8 +1,8 @@
 # How do you restore a wallet(s)?
 
-Unstoppable provides easy wallet restore functionality for any wallet that was set up in a standard-compliant wallet.
+Antofy provides easy wallet restore functionality for any wallet that was set up in a standard-compliant wallet.
 
-Users are able to restore wallets that were created in Unstoppable as well as ones created in other non-custodial wallet apps.
+Users are able to restore wallets that were created in Antofy as well as ones created in other non-custodial wallet apps.
 
 To restore wallet:
 
@@ -19,6 +19,6 @@ Additional points to keep in mind:
 
 - For Bitcoin, Bitcoin Cash and Litecoin, the user is also expected to indicate the address type for the selected coin. More information about these are available in the Bitcoin section below.
 - When restoring Zcash wallets, users can optionally indicate the wallet birthday height parameter and significantly speed up the wallet synchronization process.
-- Privacy-sensitive users should be also aware that by default Unstoppable synchronizes wallets being restored via 3rd party API server. This is done only once during the wallet restore. While this method is significantly faster it's generally considered less private. Those looking to synchronize the wallet with the blockchain in a decentralized manner can choose to restore 'via Blockchain' which operates in a more private manner but may take a few hours.
+- Privacy-sensitive users should be also aware that by default Antofy synchronizes wallets being restored via 3rd party API server. This is done only once during the wallet restore. While this method is significantly faster it's generally considered less private. Those looking to synchronize the wallet with the blockchain in a decentralized manner can choose to restore 'via Blockchain' which operates in a more private manner but may take a few hours.
 
 

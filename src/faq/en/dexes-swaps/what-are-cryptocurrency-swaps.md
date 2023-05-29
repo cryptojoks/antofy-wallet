@@ -1,6 +1,6 @@
 # What are cryptocurrency swaps?
 
-Unstoppable wallet integrates the capability to exchange one cryptocurrency token to another via decentralized cryptocurrency exchanges.
+Antofy wallet integrates the capability to exchange one cryptocurrency token to another via decentralized cryptocurrency exchanges.
 
 A decentralized cryptocurrency exchange (or DEX) is an autonomous token exchange service that operates on smart contract enabled blockchains (Ethereum, Binance Smart Chain, etc) allowing anyone to exchange tokens privately and unconditionally.
 

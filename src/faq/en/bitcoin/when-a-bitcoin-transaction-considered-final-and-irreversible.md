@@ -8,7 +8,7 @@ The basic rule to follow when contemplating transaction finality can be as follo
 
 - for smaller payments, it's safe to consider the transaction final as soon as it's included in the blockchain.
 
-- for mid-sized payments (say above $10K) it's recommended to wait at least 3 blocks. Unstoppable wallet will display the transaction as final after 3 blocks.
+- for mid-sized payments (say above $10K) it's recommended to wait at least 3 blocks. Antofy wallet will display the transaction as final after 3 blocks.
 
 - for large payments, it's recommended to wait for 6 blocks, although users can be fairly certain already after 3 blocks have passed.
 

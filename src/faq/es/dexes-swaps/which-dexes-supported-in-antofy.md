@@ -1,4 +1,4 @@
-# Which DEXes supported in Unstoppable?
+# Which DEXes supported in Antofy?
 
 Unstoppable wallet currently supports following decentralized exchanges:
 

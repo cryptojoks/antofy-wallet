@@ -18,13 +18,13 @@ function Demo() {
   const setState = val => () => setActive(val)
 
   const map = {
-    bitcoinWallet: '9gT11AgG_s0',
-    multiWallet: '5Z2CzFVjksA',
-    nftWallet: 'ZjNFheebl2U',
-    watchAddress: 'ii4j-Iv7eyY',
-    forInvestors: 'xa2cvT6FagA',
-    advancedSearch: 'XIdIsKv16gU',
-    analytics: 'c7tDslRVFgA'
+    bitcoinWallet: 'kMoB_Qs9sSQ',
+    multiWallet: 'zRBje4x3PAI',
+    nftWallet: 'A1ILGKZI6yA',
+    watchAddress: 'xX2JFzJXqVc',
+    forInvestors: 'zlXiPNtDow',
+    advancedSearch: 'p2RVR9eJQto',
+    analytics: '4Ziaj9IhhhQ'
   }
 
   return (

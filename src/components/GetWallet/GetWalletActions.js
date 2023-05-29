@@ -36,7 +36,7 @@ function GetWallet() {
          <Button
           className="Button-circle Button-download"
           text="Extension"
-          icon="chrome"
+          icon="f-droid"
           link="https://chrome.google.com/webstore/category/extensions/" newTab />
         <Button
           className="Button-circle Button-download"

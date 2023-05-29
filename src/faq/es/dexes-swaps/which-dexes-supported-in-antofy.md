@@ -1,6 +1,6 @@
 # Which DEXes supported in Antofy?
 
-Unstoppable wallet currently supports following decentralized exchanges:
+Antofy wallet currently supports following decentralized exchanges:
 
 - Uniswap (https://uniswap.org)
 
@@ -21,7 +21,7 @@ Currency integration enables asset trading within a single blockchain like tradi
 
 1inch aggregator allows traders to split a single trade order between multiple exchanges within Ethereum or Binance Smart Chain ecosystem for optimum price.
 
-In the near future, Unstoppable aims to complete integration with Thorchain (https://thorchain.org) decentralized exchange that enables cryptocurrency trades between blockchains for the first time.
+In the near future, Antofy aims to complete integration with Thorchain (https://thorchain.org) decentralized exchange that enables cryptocurrency trades between blockchains for the first time.
 
 Thorchain integration will enable convenient decentralized token swaps between following asset types: BTC, ETH, LTC, ZEC, BCH, BNB, ERC20 and BEP20 tokens.
 

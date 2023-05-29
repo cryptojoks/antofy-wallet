@@ -22,7 +22,7 @@ function Demo() {
     multiWallet: 'zRBje4x3PAI',
     nftWallet: 'A1ILGKZI6yA',
     watchAddress: 'xX2JFzJXqVc',
-    forInvestors: 'zlXiPNtDow',
+    forInvestors: '-zlXiPNtDow',
     advancedSearch: 'p2RVR9eJQto',
     analytics: '4Ziaj9IhhhQ'
   }

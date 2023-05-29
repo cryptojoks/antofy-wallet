@@ -349,6 +349,7 @@
         "ko": {
           "title": "Where can you download the Antofy wallet from?",
           "markdown": "faq/ko/about/where-to-download-antofy-wallet-from.md"
+          
         }
       },
       {
@@ -780,31 +781,31 @@
         },
         "ru": {
           "title": "How do you buy/sell cryptocurrency for fiat in Antofy?",
-          "markdown": "faq/ru/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Antofy.md"
+          "markdown": "faq/ru/management/how-to-buy-sell-cryptocurrency-for-fiat-in-antofy.md"
         },
         "de": {
           "title": "How do you buy/sell cryptocurrency for fiat in Antofy?",
-          "markdown": "faq/de/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Antofy.md"
+          "markdown": "faq/de/management/how-to-buy-sell-cryptocurrency-for-fiat-in-antofy.md"
         },
         "es": {
           "title": "How do you buy/sell cryptocurrency for fiat in Antofy?",
-          "markdown": "faq/es/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Antofy.md"
+          "markdown": "faq/es/management/how-to-buy-sell-cryptocurrency-for-fiat-in-antofy.md"
         },
         "fr": {
           "title": "How do you buy/sell cryptocurrency for fiat in Antofy?",
-          "markdown": "faq/fr/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Antofy.md"
+          "markdown": "faq/fr/management/how-to-buy-sell-cryptocurrency-for-fiat-in-antofy.md"
         },
         "tr": {
           "title": "How do you buy/sell cryptocurrency for fiat in Antofy?",
-          "markdown": "faq/tr/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Antofy.md"
+          "markdown": "faq/tr/management/how-to-buy-sell-cryptocurrency-for-fiat-in-antofy.md"
         },
         "zh": {
           "title": "How do you buy/sell cryptocurrency for fiat in Antofy?",
-          "markdown": "faq/zh/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Antofy.md"
+          "markdown": "faq/zh/management/how-to-buy-sell-cryptocurrency-for-fiat-in-antofy.md"
         },
         "ko": {
           "title": "How do you buy/sell cryptocurrency for fiat in Antofy?",
-          "markdown": "faq/ko/management/how-to-buy-sell-cryptocurrency-for-fiat-in-Antofy.md"
+          "markdown": "faq/ko/management/how-to-buy-sell-cryptocurrency-for-fiat-in-antofy.md"
         }
       }
     ]
@@ -3085,35 +3086,35 @@
       {
         "en": {
           "title": "Are Antofy users anonymous?",
-          "markdown": "faq/en/privacy/are-users-anonymous-when-transacting-on-Antofy.md"
+          "markdown": "faq/en/privacy/are-users-anonymous-when-transacting-on-antofy.md"
         },
         "ru": {
           "title": "Are Antofy users anonymous?",
-          "markdown": "faq/ru/privacy/are-users-anonymous-when-transacting-on-Antofy.md"
+          "markdown": "faq/ru/privacy/are-users-anonymous-when-transacting-on-antofy.md"
         },
         "de": {
           "title": "Are Antofy users anonymous?",
-          "markdown": "faq/de/privacy/are-users-anonymous-when-transacting-on-Antofy.md"
+          "markdown": "faq/de/privacy/are-users-anonymous-when-transacting-on-antofy.md"
         },
         "es": {
           "title": "Are Antofy users anonymous?",
-          "markdown": "faq/es/privacy/are-users-anonymous-when-transacting-on-Antofy.md"
+          "markdown": "faq/es/privacy/are-users-anonymous-when-transacting-on-antofy.md"
         },
         "fr": {
           "title": "Are Antofy users anonymous?",
-          "markdown": "faq/fr/privacy/are-users-anonymous-when-transacting-on-Antofy.md"
+          "markdown": "faq/fr/privacy/are-users-anonymous-when-transacting-on-antofy.md"
         },
         "tr": {
           "title": "Are Antofy users anonymous?",
-          "markdown": "faq/tr/privacy/are-users-anonymous-when-transacting-on-Antofy.md"
+          "markdown": "faq/tr/privacy/are-users-anonymous-when-transacting-on-antofy.md"
         },
         "zh": {
           "title": "Are Antofy users anonymous?",
-          "markdown": "faq/zh/privacy/are-users-anonymous-when-transacting-on-Antofy.md"
+          "markdown": "faq/zh/privacy/are-users-anonymous-when-transacting-on-antofy.md"
         },
         "ko": {
           "title": "Are Antofy users anonymous?",
-          "markdown": "faq/ko/privacy/are-users-anonymous-when-transacting-on-Antofy.md"
+          "markdown": "faq/ko/privacy/are-users-anonymous-when-transacting-on-antofy.md"
         }
       },
       {
@@ -3371,69 +3372,69 @@
       {
         "en": {
           "title": "Which DEXes Antofy supports?",
-          "markdown": "faq/en/dexes-swaps/which-dexes-supported-in-Antofy.md"
+          "markdown": "faq/en/dexes-swaps/which-dexes-supported-in-antofy.md"
         },
         "ru": {
           "title": "Which DEXes Antofy supports?",
-          "markdown": "faq/ru/dexes-swaps/which-dexes-supported-in-Antofy.md"
+          "markdown": "faq/ru/dexes-swaps/which-dexes-supported-in-antofy.md"
         },
         "de": {
           "title": "Which DEXes Antofy supports?",
-          "markdown": "faq/de/dexes-swaps/which-dexes-supported-in-Antofy.md"
+          "markdown": "faq/de/dexes-swaps/which-dexes-supported-in-antofy.md"
         },
         "es": {
           "title": "Which DEXes Antofy supports?",
-          "markdown": "faq/es/dexes-swaps/which-dexes-supported-in-Antofy.md"
+          "markdown": "faq/es/dexes-swaps/which-dexes-supported-in-antofy.md"
         },
         "fr": {
           "title": "Which DEXes Antofy supports?",
-          "markdown": "faq/fr/dexes-swaps/which-dexes-supported-in-Antofy.md"
+          "markdown": "faq/fr/dexes-swaps/which-dexes-supported-in-antofy.md"
         },
         "tr": {
           "title": "Which DEXes Antofy supports?",
-          "markdown": "faq/tr/dexes-swaps/which-dexes-supported-in-Antofy.md"
+          "markdown": "faq/tr/dexes-swaps/which-dexes-supported-in-antofy.md"
         },
         "zh": {
           "title": "Which DEXes Antofy supports?",
-          "markdown": "faq/zh/dexes-swaps/which-dexes-supported-in-Antofy.md"
+          "markdown": "faq/zh/dexes-swaps/which-dexes-supported-in-antofy.md"
         },
         "ko": {
           "title": "Which DEXes Antofy supports?",
-          "markdown": "faq/ko/dexes-swaps/which-dexes-supported-in-Antofy.md"
+          "markdown": "faq/ko/dexes-swaps/which-dexes-supported-in-antofy.md"
         }
       },
       {
         "en": {
           "title": "How to swap cryptocurrency?",
-          "markdown": "faq/en/dexes-swaps/how-to-swap-cryptocurrency-in-Antofy.md"
+          "markdown": "faq/en/dexes-swaps/how-to-swap-cryptocurrency-in-antofy.md"
         },
         "ru": {
           "title": "How to swap cryptocurrency?",
-          "markdown": "faq/ru/dexes-swaps/how-to-swap-cryptocurrency-in-Antofy.md"
+          "markdown": "faq/ru/dexes-swaps/how-to-swap-cryptocurrency-in-antofy.md"
         },
         "de": {
           "title": "How to swap cryptocurrency?",
-          "markdown": "faq/de/dexes-swaps/how-to-swap-cryptocurrency-in-Antofy.md"
+          "markdown": "faq/de/dexes-swaps/how-to-swap-cryptocurrency-in-antofy.md"
         },
         "es": {
           "title": "How to swap cryptocurrency?",
-          "markdown": "faq/es/dexes-swaps/how-to-swap-cryptocurrency-in-Antofy.md"
+          "markdown": "faq/es/dexes-swaps/how-to-swap-cryptocurrency-in-antofy.md"
         },
         "fr": {
           "title": "How to swap cryptocurrency?",
-          "markdown": "faq/fr/dexes-swaps/how-to-swap-cryptocurrency-in-Antofy.md"
+          "markdown": "faq/fr/dexes-swaps/how-to-swap-cryptocurrency-in-antofy.md"
         },
         "tr": {
           "title": "How to swap cryptocurrency?",
-          "markdown": "faq/tr/dexes-swaps/how-to-swap-cryptocurrency-in-Antofy.md"
+          "markdown": "faq/tr/dexes-swaps/how-to-swap-cryptocurrency-in-antofy.md"
         },
         "zh": {
           "title": "How to swap cryptocurrency?",
-          "markdown": "faq/zh/dexes-swaps/how-to-swap-cryptocurrency-in-Antofy.md"
+          "markdown": "faq/zh/dexes-swaps/how-to-swap-cryptocurrency-in-antofy.md"
         },
         "ko": {
           "title": "How to swap cryptocurrency?",
-          "markdown": "faq/ko/dexes-swaps/how-to-swap-cryptocurrency-in-Antofy.md"
+          "markdown": "faq/ko/dexes-swaps/how-to-swap-cryptocurrency-in-antofy.md"
         }
       },
       {

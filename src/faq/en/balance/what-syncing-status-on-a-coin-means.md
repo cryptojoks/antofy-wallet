@@ -1,6 +1,6 @@
 # What does the 'syncing' status on a coin means?
 
-The 'syncing' status indicator on the coin shows that the Unstoppable app tries to synchronize itself with a given blockchain.
+The 'syncing' status indicator on the coin shows that the Antofy app tries to synchronize itself with a given blockchain.
 
 While in most cases 'syncing' status should be shown briefly, there are many valid situations where it can remain significantly longer:
 
@@ -14,5 +14,5 @@ While in most cases 'syncing' status should be shown briefly, there are many val
 
 - Delayed or slow response times for Ethereum and Binance Smart Chain RPC providers. It's generally advised to wait for a few minutes or try to restart the wallet app.
 
-Keep in mind, Unstoppable app keeps the synchronization process running only when the Unstoppable app remains open. If the app is closed the synchronization process is paused and only resumes when the app is opened again.
+Keep in mind, Antofy app keeps the synchronization process running only when the Antofy app remains open. If the app is closed the synchronization process is paused and only resumes when the app is opened again.
 

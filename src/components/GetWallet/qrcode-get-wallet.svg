@@ -1,444 +1,357 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="200" height="200">
-<rect shape-rendering="optimizeSpeed"  x="0" y="0" width="200" height="200" fill="white" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="13" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="19" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="25" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="31" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="37" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="79" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="43" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="49" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="55" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="55" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="79" y="55" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="55" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="55" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="55" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="55" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="79" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="61" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="67" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="73" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="79" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="85" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="91" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="79" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="97" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="79" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="103" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="79" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="109" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="115" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="121" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="55" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="127" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="133" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="139" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="139" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="139" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="139" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="139" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="139" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="139" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="139" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="139" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="79" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="145" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="79" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="151" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="79" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="157" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="181" y="163" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="145" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="169" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="73" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="91" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="103" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="109" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="133" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="139" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="175" y="175" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="13" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="19" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="25" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="31" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="37" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="43" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="49" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="61" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="67" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="85" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="97" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="115" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="121" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="127" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="151" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="157" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="163" y="181" width="6" height="6" fill="black" />
-<rect shape-rendering="optimizeSpeed"  x="169" y="181" width="6" height="6" fill="black" /></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="3000.000000pt" height="3000.000000pt" viewBox="0 0 3000.000000 3000.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,3000.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M3132 26989 c-45 -13 -109 -80 -122 -127 -7 -28 -9 -1013 -8 -3244
+l3 -3204 27 -41 c15 -22 44 -51 65 -64 l38 -24 3226 0 3225 0 41 27 c22 15 51
+44 64 65 l24 38 0 3225 0 3225 -24 38 c-13 21 -42 50 -64 65 l-41 27 -3210 2
+c-2007 1 -3223 -2 -3244 -8z m5569 -966 c64 -38 59 146 59 -2383 0 -2076 -2
+-2305 -16 -2335 -33 -70 168 -65 -2384 -65 -2529 0 -2345 -5 -2383 59 -16 27
+-17 180 -17 2341 0 2115 1 2314 16 2339 9 15 28 35 43 44 24 15 218 16 2339
+17 2163 0 2316 -1 2343 -17z"/>
+<path d="M5057 25070 c-46 -14 -93 -56 -116 -103 l-21 -44 2 -1294 3 -1294 24
+-38 c13 -21 42 -50 64 -65 l41 -27 1291 -3 1292 -2 54 28 c43 22 59 38 81 81
+l28 53 0 1278 0 1278 -28 53 c-22 43 -38 59 -81 81 l-53 28 -1277 -1 c-702 0
+-1289 -5 -1304 -9z"/>
+<path d="M12725 26981 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M17525 26981 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M20412 26989 c-45 -13 -109 -80 -122 -127 -7 -28 -9 -1013 -8 -3244
+l3 -3204 27 -41 c15 -22 44 -51 65 -64 l38 -24 3226 0 3225 0 41 27 c22 15 51
+44 64 65 l24 38 0 3225 0 3225 -24 38 c-13 21 -42 50 -64 65 l-41 27 -3210 2
+c-2007 1 -3223 -2 -3244 -8z m5569 -966 c64 -38 59 146 59 -2383 0 -2552 5
+-2351 -65 -2384 -30 -14 -259 -16 -2335 -16 -2529 0 -2345 -5 -2383 59 -16 27
+-17 180 -17 2341 0 2115 1 2314 16 2339 9 15 28 35 43 44 24 15 218 16 2339
+17 2163 0 2316 -1 2343 -17z"/>
+<path d="M22337 25070 c-46 -14 -93 -56 -116 -103 l-21 -44 2 -1294 3 -1294
+24 -38 c13 -21 42 -50 64 -65 l41 -27 1291 -3 1292 -2 54 28 c43 22 59 38 81
+81 l28 53 0 1278 0 1278 -28 53 c-22 43 -38 59 -81 81 l-53 28 -1277 -1 c-702
+0 -1289 -5 -1304 -9z"/>
+<path d="M11765 26021 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M16565 26021 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836 0
+-754 1 -797 19 -836 23 -50 53 -81 106 -105 36 -17 69 -19 356 -19 l317 0 53
+-28 c43 -22 59 -38 81 -81 l28 -53 0 -317 c0 -287 2 -320 19 -357 23 -50 53
+-81 106 -105 38 -18 81 -19 835 -19 754 0 797 1 836 19 50 23 81 53 105 106
+18 38 19 82 19 836 l0 797 -28 53 c-22 43 -38 59 -81 81 l-53 28 -797 0 c-754
+0 -798 1 -836 19 -53 24 -83 55 -106 105 -17 37 -19 70 -19 357 l0 317 -28 53
+c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M10805 25061 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M13685 25061 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M11765 24101 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836 0
+-754 1 -797 19 -836 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 18 38 19 82 19 836 l0 797 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M14645 24101 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836 0
+-753 -1 -797 -19 -835 -24 -53 -55 -83 -105 -106 -39 -18 -82 -19 -836 -19
+-753 0 -797 -1 -835 -19 -53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836
+0 -754 1 -797 19 -836 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0
+319 2 356 19 50 23 81 53 105 106 17 36 19 70 19 355 0 285 2 319 19 356 23
+50 53 81 106 105 36 17 69 19 356 19 l317 0 53 -28 c43 -22 59 -38 81 -81 l28
+-53 0 -317 c0 -287 2 -320 19 -357 23 -50 53 -81 106 -105 36 -17 69 -19 355
+-19 286 0 319 2 356 19 50 23 81 53 105 106 18 38 19 106 19 1796 l0 1757 -28
+53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M16565 23141 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -93 -19 -1316
+0 -1223 1 -1277 19 -1316 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0
+319 2 356 19 50 23 81 53 105 106 17 36 19 70 19 355 0 285 2 319 19 356 23
+50 53 81 106 105 36 17 70 19 355 19 285 0 319 2 356 19 50 23 81 53 105 106
+17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287
+0 -320 2 -356 19 -53 24 -83 55 -106 105 -17 37 -19 70 -19 357 l0 317 -28 53
+c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M10805 21221 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836 0
+-753 -1 -797 -19 -835 -24 -53 -55 -83 -105 -106 -39 -18 -105 -19 -1796 -19
+-1689 0 -1757 -1 -1795 -19 -53 -24 -83 -55 -106 -105 -17 -37 -19 -71 -19
+-356 0 -285 -2 -319 -19 -355 -24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356
+-19 -285 0 -319 -2 -355 -19 -53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19
+-356 0 -286 2 -319 19 -356 23 -50 53 -81 106 -105 38 -18 82 -19 836 -19
+l797 0 53 -28 c43 -22 59 -38 81 -81 l28 -53 0 -317 c0 -287 -2 -320 -19 -356
+-24 -53 -55 -83 -105 -106 -39 -18 -82 -19 -836 -19 -753 0 -797 -1 -835 -19
+-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0 -286 2 -319 19 -356 23
+-50 53 -81 106 -105 36 -17 69 -19 356 -19 l317 0 53 -28 c43 -22 59 -38 81
+-81 l28 -53 0 -317 c0 -287 2 -320 19 -357 23 -50 53 -81 106 -105 36 -17 69
+-19 356 -19 l317 0 53 -28 c43 -22 59 -38 81 -81 l28 -53 0 -317 c0 -287 2
+-320 19 -357 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319 2 356
+19 50 23 81 53 105 106 17 36 19 70 19 355 0 285 2 319 19 356 23 50 53 81
+106 105 38 18 82 19 835 19 754 0 797 1 836 19 50 23 81 53 105 106 17 36 19
+69 19 356 l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -797 0 c-754 0 -798 1
+-836 19 -53 24 -83 55 -106 105 -17 37 -19 70 -19 356 0 286 2 319 19 356 23
+50 53 81 106 105 36 17 70 19 355 19 285 0 319 2 356 19 50 23 81 53 105 106
+17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287
+0 -320 2 -356 19 -53 24 -83 55 -106 105 -17 37 -19 70 -19 356 0 286 2 319
+19 356 23 50 53 81 106 105 38 18 82 19 836 19 l797 0 53 -28 c43 -22 59 -38
+81 -81 l28 -53 0 -317 c0 -287 2 -320 19 -357 23 -50 53 -81 106 -105 38 -18
+81 -19 835 -19 754 0 797 1 836 19 50 23 81 53 105 106 17 36 19 69 19 356 l0
+317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 2 -356 19 -53
+24 -83 55 -106 105 -18 39 -19 94 -19 1317 l0 1277 -28 53 c-22 43 -38 59 -81
+81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M18485 21221 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -94 -19 -1316
+0 -1221 -1 -1277 -19 -1315 -24 -53 -55 -83 -105 -106 -39 -18 -93 -19 -1316
+-19 -1221 0 -1277 1 -1315 19 -53 24 -83 55 -106 105 -17 37 -19 70 -19 357
+l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19
+-53 -24 -83 -55 -106 -105 -17 -37 -19 -71 -19 -356 0 -285 -2 -319 -19 -355
+-24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356 -19 -285 0 -319 -2 -355 -19
+-53 -24 -83 -55 -106 -105 -17 -37 -19 -71 -19 -356 0 -285 -2 -319 -19 -355
+-24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356 -19 -285 0 -319 -2 -355 -19
+-53 -24 -83 -55 -106 -105 -17 -37 -19 -71 -19 -356 0 -285 -2 -319 -19 -355
+-24 -53 -55 -83 -105 -106 -39 -18 -82 -19 -836 -19 -753 0 -797 -1 -835 -19
+-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0 -286 2 -319 19 -356 23
+-50 53 -81 106 -105 38 -18 82 -19 836 -19 l797 0 53 -28 c43 -22 59 -38 81
+-81 l28 -53 0 -797 c0 -755 1 -798 19 -837 23 -50 53 -81 106 -105 38 -18 81
+-19 835 -19 754 0 797 1 836 19 50 23 81 53 105 106 18 38 19 82 19 836 l0
+797 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 2 -356 19 -53
+24 -83 55 -106 105 -17 37 -19 70 -19 356 0 286 2 319 19 356 23 50 53 81 106
+105 36 17 69 19 356 19 l317 0 53 -28 c43 -22 59 -38 81 -81 l28 -53 0 -317
+c0 -287 2 -320 19 -357 23 -50 53 -81 106 -105 38 -18 81 -19 835 -19 754 0
+797 1 836 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43
+-38 59 -81 81 l-53 28 -317 0 c-287 0 -320 2 -356 19 -53 24 -83 55 -106 105
+-17 37 -19 70 -19 356 0 286 2 319 19 356 23 50 53 81 106 105 38 18 94 19
+1316 19 l1277 0 53 -28 c43 -22 59 -38 81 -81 l28 -53 0 -1757 c0 -1690 -1
+-1758 -19 -1796 -24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356 -19 -285 0
+-319 -2 -355 -19 -53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0 -286
+2 -319 19 -356 23 -50 53 -81 106 -105 38 -18 94 -19 1316 -19 l1277 0 53 -28
+c43 -22 59 -38 81 -81 l28 -53 0 -317 c0 -287 -2 -320 -19 -356 -24 -53 -55
+-83 -105 -106 -39 -18 -82 -19 -836 -19 -753 0 -797 -1 -835 -19 -53 -24 -83
+-55 -106 -105 -18 -39 -19 -82 -19 -836 0 -753 -1 -797 -19 -835 -24 -53 -55
+-83 -105 -106 -37 -17 -71 -19 -356 -19 -285 0 -319 -2 -355 -19 -53 -24 -83
+-55 -106 -105 -17 -37 -19 -70 -19 -356 0 -286 2 -319 19 -356 23 -50 53 -81
+106 -105 36 -17 69 -19 356 -19 l317 0 53 -28 c43 -22 59 -38 81 -81 l28 -53
+0 -317 c0 -287 -2 -320 -19 -356 -24 -53 -55 -83 -105 -106 -37 -17 -71 -19
+-356 -19 -285 0 -319 -2 -355 -19 -53 -24 -83 -55 -106 -105 -17 -37 -19 -71
+-19 -356 0 -285 -2 -319 -19 -355 -24 -53 -55 -83 -105 -106 -37 -17 -70 -19
+-356 -19 -286 0 -319 2 -355 19 -53 24 -83 55 -106 105 -17 37 -19 70 -19 357
+l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 2 -356 19
+-53 24 -83 55 -106 105 -18 39 -19 82 -19 836 0 754 1 797 19 836 23 50 53 81
+106 105 36 17 70 19 355 19 285 0 319 2 356 19 50 23 81 53 105 106 17 36 19
+69 19 356 l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 2
+-356 19 -53 24 -83 55 -106 105 -17 37 -19 70 -19 357 l0 317 -28 53 c-22 43
+-38 59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19 -53 -24 -83 -55 -106
+-105 -17 -37 -19 -71 -19 -356 0 -285 -2 -319 -19 -355 -24 -53 -55 -83 -105
+-106 -37 -17 -71 -19 -356 -19 -285 0 -319 -2 -355 -19 -53 -24 -83 -55 -106
+-105 -18 -39 -19 -82 -19 -836 0 -754 1 -797 19 -836 23 -50 53 -81 106 -105
+36 -17 69 -19 356 -19 l317 0 53 -28 c43 -22 59 -38 81 -81 l28 -53 0 -317 c0
+-287 -2 -320 -19 -356 -24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356 -19
+-285 0 -319 -2 -355 -19 -53 -24 -83 -55 -106 -105 -17 -37 -19 -71 -19 -356
+0 -285 -2 -319 -19 -355 -24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356 -19
+-285 0 -319 -2 -355 -19 -53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356
+0 -286 2 -319 19 -356 23 -50 53 -81 106 -105 38 -18 81 -19 835 -19 754 0
+797 1 836 19 50 23 81 53 105 106 17 36 19 70 19 355 0 285 2 319 19 356 23
+50 53 81 106 105 36 17 69 19 356 19 l317 0 53 -28 c43 -22 59 -38 81 -81 l28
+-53 0 -317 c0 -287 2 -320 19 -357 23 -50 53 -81 106 -105 38 -18 82 -19 836
+-19 l797 0 53 -28 c43 -22 59 -38 81 -81 l28 -53 0 -317 c0 -287 2 -320 19
+-357 23 -50 53 -81 106 -105 36 -17 69 -19 356 -19 l317 0 53 -28 c43 -22 59
+-38 81 -81 l28 -53 0 -797 c0 -755 1 -798 19 -837 23 -50 53 -81 106 -105 36
+-17 69 -19 355 -19 286 0 319 2 356 19 50 23 81 53 105 106 18 38 19 94 19
+1315 0 1222 1 1277 19 1316 23 50 53 81 106 105 36 17 70 19 355 19 285 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 70 19 355 0 285 2 319 19 356 23 50 53
+81 106 105 36 17 69 19 356 19 l317 0 53 -28 c43 -22 59 -38 81 -81 l28 -53 0
+-317 c0 -287 2 -320 19 -357 23 -50 53 -81 106 -105 38 -18 81 -19 835 -19
+754 0 797 1 836 19 50 23 81 53 105 106 18 38 19 82 19 835 0 754 1 797 19
+836 23 50 53 81 106 105 36 17 70 19 355 19 285 0 319 2 356 19 50 23 81 53
+105 106 18 38 19 82 19 836 l0 797 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317
+0 c-287 0 -320 2 -356 19 -53 24 -83 55 -106 105 -18 39 -19 82 -19 837 l0
+797 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 2 -356 19 -53
+24 -83 55 -106 105 -17 37 -19 70 -19 357 l0 317 -28 53 c-22 43 -38 59 -81
+81 l-53 28 -317 0 c-287 0 -320 2 -356 19 -53 24 -83 55 -106 105 -17 37 -19
+70 -19 357 l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -797 0 c-754 0 -798
+1 -836 19 -53 24 -83 55 -106 105 -18 39 -19 93 -19 1316 0 1223 1 1277 19
+1316 23 50 53 81 106 105 36 17 69 19 356 19 l317 0 53 -28 c43 -22 59 -38 81
+-81 l28 -53 0 -797 c0 -755 1 -798 19 -837 23 -50 53 -81 106 -105 38 -18 81
+-19 835 -19 754 0 797 1 836 19 50 23 81 53 105 106 18 38 19 82 19 836 l0
+797 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 2 -356 19 -53
+24 -83 55 -106 105 -18 39 -19 94 -19 1317 l0 1277 -28 53 c-22 43 -38 59 -81
+81 l-53 28 -797 0 c-754 0 -798 1 -836 19 -53 24 -83 55 -106 105 -18 39 -19
+82 -19 837 l0 797 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320
+-2 -356 -19z m1686 -2889 c43 -22 59 -38 81 -81 l28 -53 0 -317 c0 -287 -2
+-320 -19 -356 -24 -53 -55 -83 -105 -106 -37 -17 -70 -19 -356 -19 -286 0
+-319 2 -355 19 -53 24 -83 55 -106 105 -17 37 -19 70 -19 356 0 286 2 319 19
+356 23 50 53 81 106 105 36 17 69 19 356 19 l317 0 53 -28z m1920 -7680 c43
+-22 59 -38 81 -81 l28 -53 0 -1277 c0 -1222 -1 -1278 -19 -1316 -24 -53 -55
+-83 -105 -106 -39 -18 -93 -19 -1316 -19 -1221 0 -1277 1 -1315 19 -53 24 -83
+55 -106 105 -18 39 -19 93 -19 1316 0 1223 1 1277 19 1316 23 50 53 81 106
+105 38 18 94 19 1316 19 l1277 0 53 -28z"/>
+<path d="M20405 9701 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M13685 20261 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M15605 20261 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M3125 19301 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 38 -18 94 -19 1315 -19 1223 0
+1277 1 1316 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43
+-38 59 -81 81 l-53 28 -1277 0 c-1222 0 -1278 -1 -1316 -19z"/>
+<path d="M24245 19301 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M22325 18341 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M25205 18341 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M5045 17381 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M23285 17381 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M3125 16421 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 38 -18 81 -19 835 -19 754 0 797
+1 836 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -797 0 c-754 0 -798 -1 -836 -19z"/>
+<path d="M25205 16421 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -71 -19 -356 0
+-285 -2 -319 -19 -355 -24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356 -19
+-285 0 -319 -2 -355 -19 -53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356
+0 -286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 356 -19 l317 0
+53 -28 c43 -22 59 -38 81 -81 l28 -53 0 -797 c0 -755 1 -798 19 -837 23 -50
+53 -81 106 -105 38 -18 81 -19 835 -19 754 0 797 1 836 19 50 23 81 53 105
+106 18 38 19 106 19 1796 l0 1757 -28 53 c-22 43 -38 59 -81 81 l-53 28 -797
+0 c-754 0 -798 -1 -836 -19z"/>
+<path d="M5045 15461 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M16565 15461 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -71 -19 -356 0
+-285 -2 -319 -19 -355 -24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356 -19
+-285 0 -319 -2 -355 -19 -53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836
+0 -754 1 -797 19 -836 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0
+319 2 356 19 50 23 81 53 105 106 17 36 19 70 19 355 0 285 2 319 19 356 23
+50 53 81 106 105 36 17 70 19 355 19 285 0 319 2 356 19 50 23 81 53 105 106
+18 38 19 82 19 836 l0 797 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287
+0 -320 -2 -356 -19z"/>
+<path d="M22325 14501 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M3125 13541 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M8885 13541 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M10805 13541 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836 0
+-754 1 -797 19 -836 23 -50 53 -81 106 -105 38 -18 81 -19 835 -19 754 0 797
+1 836 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 2 -356 19 -53 24 -83 55 -106 105 -17
+37 -19 70 -19 357 l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0 c-287
+0 -320 -2 -356 -19z"/>
+<path d="M23285 13541 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M4085 12581 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 38 -18 94 -19 1316 -19 l1277 0
+53 -28 c43 -22 59 -38 81 -81 l28 -53 0 -317 c0 -287 2 -320 19 -357 23 -50
+53 -81 106 -105 38 -18 106 -19 1795 -19 1691 0 1756 1 1796 19 50 23 81 53
+105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -797
+0 c-754 0 -798 1 -836 19 -53 24 -83 55 -106 105 -17 37 -19 70 -19 357 l0
+317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -2237 0 c-2158 0 -2237 -1 -2276
+-19z"/>
+<path d="M13685 12581 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M16565 12581 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836 0
+-754 1 -797 19 -836 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 18 38 19 82 19 836 l0 797 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M3125 11621 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M24245 11621 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M26165 11621 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M10805 10661 c-53 -24 -83 -55 -106 -105 -18 -40 -19 -105 -19 -1796
+0 -1691 1 -1756 19 -1796 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0
+319 2 356 19 50 23 81 53 105 106 18 38 19 106 19 1796 l0 1757 -28 53 c-22
+43 -38 59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M25205 10661 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -93 -19 -1316
+0 -1223 1 -1277 19 -1316 23 -50 53 -81 106 -105 38 -18 81 -19 835 -19 754 0
+797 1 836 19 50 23 81 53 105 106 18 38 19 82 19 836 l0 797 -28 53 c-22 43
+-38 59 -81 81 l-53 28 -317 0 c-287 0 -320 2 -356 19 -53 24 -83 55 -106 105
+-17 37 -19 70 -19 357 l0 317 -28 53 c-22 43 -38 59 -81 81 l-53 28 -317 0
+c-287 0 -320 -2 -356 -19z"/>
+<path d="M3132 9709 c-45 -13 -109 -80 -122 -127 -7 -28 -9 -1013 -8 -3244 l3
+-3204 27 -41 c15 -22 44 -51 65 -64 l38 -24 3226 0 3225 0 41 27 c22 15 51 44
+64 65 l24 38 0 3225 0 3225 -24 38 c-13 21 -42 50 -64 65 l-41 27 -3210 2
+c-2007 1 -3223 -2 -3244 -8z m5569 -966 c64 -38 59 146 59 -2383 0 -2076 -2
+-2305 -16 -2335 -33 -70 168 -65 -2384 -65 -2529 0 -2345 -5 -2383 59 -16 27
+-17 180 -17 2341 0 2115 1 2314 16 2339 9 15 28 35 43 44 24 15 218 16 2339
+17 2163 0 2316 -1 2343 -17z"/>
+<path d="M5057 7790 c-46 -14 -93 -56 -116 -103 l-21 -44 2 -1294 3 -1294 24
+-38 c13 -21 42 -50 64 -65 l41 -27 1291 -3 1292 -2 54 28 c43 22 59 38 81 81
+l28 53 0 1278 0 1278 -28 53 c-22 43 -38 59 -81 81 l-53 28 -1277 -1 c-702 0
+-1289 -5 -1304 -9z"/>
+<path d="M24245 7781 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M10805 5861 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -93 -19 -1316 0
+-1223 1 -1277 19 -1316 23 -50 53 -81 106 -105 38 -18 81 -19 835 -19 754 0
+797 1 836 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43
+-38 59 -81 81 l-53 28 -317 0 c-287 0 -320 2 -356 19 -53 24 -83 55 -106 105
+-17 37 -19 70 -19 356 0 286 2 319 19 356 23 50 53 81 106 105 36 17 70 19
+355 19 285 0 319 2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28
+53 c-22 43 -38 59 -81 81 l-53 28 -797 0 c-754 0 -798 -1 -836 -19z"/>
+<path d="M14645 5861 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M23285 5861 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -71 -19 -356 0
+-285 -2 -319 -19 -355 -24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356 -19
+-285 0 -319 -2 -355 -19 -53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836
+0 -754 1 -797 19 -836 23 -50 53 -81 106 -105 38 -18 81 -19 835 -19 754 0
+797 1 836 19 50 23 81 53 105 106 18 38 19 94 19 1316 l0 1277 -28 53 c-22 43
+-38 59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M26165 5861 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836 0
+-753 -1 -797 -19 -835 -24 -53 -55 -83 -105 -106 -37 -17 -71 -19 -356 -19
+-285 0 -319 -2 -355 -19 -53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356
+0 -286 2 -319 19 -356 23 -50 53 -81 106 -105 38 -18 81 -19 835 -19 754 0
+797 1 836 19 50 23 81 53 105 106 18 38 19 94 19 1316 l0 1277 -28 53 c-22 43
+-38 59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M13685 4901 c-53 -24 -83 -55 -106 -105 -17 -37 -19 -70 -19 -356 0
+-286 2 -319 19 -356 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 17 36 19 69 19 356 l0 317 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+<path d="M16565 4901 c-53 -24 -83 -55 -106 -105 -18 -39 -19 -82 -19 -836 0
+-754 1 -797 19 -836 23 -50 53 -81 106 -105 36 -17 69 -19 355 -19 286 0 319
+2 356 19 50 23 81 53 105 106 18 38 19 82 19 836 l0 797 -28 53 c-22 43 -38
+59 -81 81 l-53 28 -317 0 c-287 0 -320 -2 -356 -19z"/>
+</g>
+</svg>

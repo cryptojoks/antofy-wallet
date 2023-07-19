@@ -20,7 +20,7 @@ function GetWallet() {
           className="Button-circle Button-nowrap"
           text="Google Play"
           icon="google-play"
-          link="https://play.google.com/store/apps/" yellow newTab />
+          link="https://play.google.com/store/apps/details?id=io.antofy.wallet" yellow newTab />
         <Button
           className="Button-circle Button-nowrap"
           text="App Store"

@@ -42,7 +42,7 @@ function GetWallet() {
           className="Button-circle Button-download"
           text="APK file"
           icon="android"
-          link="https://github.com/antofy/antofy-wallet-android/" newTab />
+          link="https://antofy.com/app-release.apk" newTab />
         <Button
           className="Button-circle Button-download"
           text="Github"

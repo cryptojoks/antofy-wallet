@@ -140,7 +140,7 @@ function RoadmapDetails({ version }) {
       </div>
       <div className="card-footer pt-3">
         <div className="border-top mt-2 pt-2">
-          <a href={`https://github.com/antofy/antofy-wallet-android/releases/tag/${version}.0`}
+          <a href={`https://play.google.com/store/apps/details?id=io.antofy.wallet`}
              target="_blank"
              rel="noopener noreferrer"
              className="text-warning small">Android</a>

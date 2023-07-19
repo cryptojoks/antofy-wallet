@@ -26,7 +26,7 @@ function Join() {
                 </a>
               </div>
             <div className="Join-icon">
-                <a href="https://medium.com/2antofy" target="_blank" rel="noopener noreferrer">
+                <a href="https://medium.com/@antofy" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src={medium} alt="medium" />
                 </a>
               </div>

@@ -75,7 +75,7 @@ class Header extends React.Component {
         {sticky && <Button
           className="Button-circle nav-btn-item ml-20"
           text="Google Play" icon="google-play"
-          link="#" yellow newTab />}
+          link="https://play.google.com/store/apps/details?id=io.antofy.wallet" yellow newTab />}
         {sticky && <Button
           className="Button-circle nav-btn-item"
           text="App Store" icon="app-store"
